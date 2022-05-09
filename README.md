@@ -1,5 +1,6 @@
 # SceneRecognitionBoW
 Overview:
+
 We will perform scene recognition with three different methods. We will classify scenes into one of 15 categories by training and testing on the 15 scene database (Lazebnik et al. 2006).
 
 Task: Implement three scene recognition schemes:
@@ -11,6 +12,7 @@ Task: Implement three scene recognition schemes:
 ●	Bag of words representation and linear SVM classifier (svm_classify()).
 
 Implementation:
+
 ● Tiny Image:
 Get_tiny_images was used to create the tiny image as an image
 representation. The accuracy with KNN classifier has poor performance which is
